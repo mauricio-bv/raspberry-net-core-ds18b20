@@ -10,6 +10,12 @@ If you want to use this library for commercial projects please contact me to men
 
 I'm including an example solution for Visual studio 2017, it uses the library LibraryDS18B20.dll
 
+**Usage:**
+
+int GetTemperature(string deviceId)
+
+The deviceId parameter is the DS18B20 device id, for example if your device id is 28-031662b19cff, the Function call would be GetTemperature("28-031662b19cff").
+
 Regards.
 
 Alfredo Mendiola Loyola
