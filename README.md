@@ -11,6 +11,7 @@ If you want to use this library for commercial projects please contact me to men
 I'm including an example solution for Visual studio 2017, it uses the library LibraryDS18B20.dll
 
 Regards.
+
 Alfredo Mendiola Loyola
 
 
