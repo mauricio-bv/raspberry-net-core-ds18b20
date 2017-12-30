@@ -1,4 +1,4 @@
-# **LibraryDS18B20 for Net Core 2.0** #
+# **Library DS18B20 for Net Core 2.0** #
 
 This library allows you to read the temperature from the sensor DS18B20 connected to the Raspbery PI using Net Core 2.0.
 
